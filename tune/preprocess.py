@@ -43,9 +43,9 @@ def preprocess(
 
 def preprocess_pd(
         path,
-        train_split=0.7, val_split=0.15, random_state=1234,
+        train_split=0.8, val_split=0.1, random_state=1234,
         word_sym='Word: ', def_sym='Definition: ', ex_sym='Example: ',
-        pad_sym='<|endoftext|>'
+        pad_sym=' ', eos_sym='<|endoftext|>'
 ):
     # set random seed
     np.random.seed(random_state)
@@ -65,11 +65,11 @@ def preprocess_pd(
 
         # add all definitions
         for d in defs:
-            samples.append(f'{def_sym}{d}{pad_sym}{word_sym}{word}{pad_sym}')
+            samples.append(f'{def_sym}{d}{pad_sym}{word_sym}{word}{eos_sym}')
 
         # add all examples
         for e in exs:
-            samples.append(f'{ex_sym}{e}{pad_sym}{word_sym}{word}{pad_sym}')
+            samples.append(f'{ex_sym}{e}{pad_sym}{word_sym}{word}{eos_sym}')
 
     print(f'{len(samples)} samples found.')
 
@@ -87,9 +87,9 @@ def preprocess_pd(
 
     for k, vs in splits.items():
         print(len(vs), 'samples in', k)
-        with open(f'./{path}_{k}.txt', 'w+') as fp:
-            for v in tqdm(vs, desc=k, total=len(vs)):
-                fp.write(v + '\n')
+        # with open(f'./{path}_{k}.txt', 'w+') as fp:
+        #     for v in tqdm(vs, desc=k, total=len(vs)):
+        #         fp.write(v + '\n')
 
 
 if __name__ == '__main__':
