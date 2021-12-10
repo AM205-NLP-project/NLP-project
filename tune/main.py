@@ -1,3 +1,5 @@
+import json
+
 import numpy as np
 import torch
 
@@ -11,9 +13,20 @@ from tqdm.auto import tqdm
 
 class WikiData(torch.utils.data.Dataset):
 
-    def __init__(self, filename):
-        with open(filename) as fp:
-            self._data = fp.readlines()
+    """
+    Basic wrapper for batching data
+    """
+
+    def __init__(self, filename, rev=False):
+        self._rev = rev
+        self._end = '<|endoftext|>'
+        self._data = []
+        for dat in json.load(open(filename)):
+            if self._rev:
+                dx = dat['text'] + ' ; ' + dat['word'] + self._end
+            else:
+                dx = dat['word'] + ' ; ' + dat['text'] + self._end
+            self._data.append(dx)
 
     def __getitem__(self, item):
         return self._data[item]
@@ -68,7 +81,10 @@ if __name__ == '__main__':
         'batch_size': 8,  # number of examples per batch
         'train_log': 50,  # num batches per train log
         'val_log': 2000,  # num train batches before validation step
+        'rev': False,  # Whether to train text -> word
     }
+
+    model_name = 'model_rev' if params['rev'] else 'model'
 
     # load the tokenizer
     tok = AutoTokenizer.from_pretrained(params['model_str'])
@@ -86,8 +102,10 @@ if __name__ == '__main__':
     dataset_name = 'words_dataset'
     batch_size = params['batch_size']
     data = {
-        'train': torch.utils.data.DataLoader(WikiData(f'{dataset_name}_train.txt'), shuffle=True, batch_size=batch_size),
-        'val': torch.utils.data.DataLoader(WikiData(f'{dataset_name}_val.txt'), shuffle=True, batch_size=batch_size),
+        'train': torch.utils.data.DataLoader(WikiData(f'{dataset_name}_train.json', rev=params['rev']),
+                                             shuffle=True, batch_size=batch_size),
+        'val': torch.utils.data.DataLoader(WikiData(f'{dataset_name}_val.json', rev=params['rev']),
+                                           shuffle=True, batch_size=batch_size),
     }
 
     # create a basic linear decay lr schedule
@@ -155,8 +173,9 @@ if __name__ == '__main__':
 
                 if eloss < best_val:
                     # save model
-                    model.save_pretrained('model_best/')
+                    model.save_pretrained(model_name + '_best/')
                     print('Saved new best model!')
+                    best_val = eloss
 
                 out = f'{epoch}\t{ix}\t{eloss}\n'
                 with open(dataset_name + '_val.log', 'a+') as fp:
@@ -179,8 +198,8 @@ if __name__ == '__main__':
 
     if eloss < best_val:
         # save model
-        model.save_pretrained('model_best/')
+        model.save_pretrained(model_name + '_best/')
         print('Saved new best model!')
     else:
-        model.save_pretrained('model_final/')
+        model.save_pretrained(model_name + '_final/')
         print('Saved final model! (did not exceed previous best)')

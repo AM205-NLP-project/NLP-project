@@ -1,5 +1,5 @@
 import ast
-# import json
+import json
 
 import numpy as np
 import pandas as pd
@@ -45,7 +45,8 @@ def preprocess_pd(
         path,
         train_split=0.8, val_split=0.1, random_state=1234,
         word_sym='Word: ', def_sym='Definition: ', ex_sym='Example: ',
-        pad_sym=' ', eos_sym='<|endoftext|>'
+        pad_sym=' ', eos_sym='<|endoftext|>',
+        rev=False,
 ):
     # set random seed
     np.random.seed(random_state)
@@ -54,10 +55,12 @@ def preprocess_pd(
     df = pd.read_csv(path)
 
     samples = []
+    ex_cache = set()
+    def_cache = set()
     # flatten into list of (def, word) & (ex, word) pairs
     for ix, row in tqdm(df.iterrows(), desc='Parsing DataFrame into samples...', total=len(df)):
         # unpack features
-        iy, word, pos, defs, rels, exs = row
+        word, pos, defs, rels, exs = row
 
         # parse lists as strings into actual lists
         defs = ast.literal_eval(defs)
@@ -65,11 +68,57 @@ def preprocess_pd(
 
         # add all definitions
         for d in defs:
-            samples.append(f'{def_sym}{d}{pad_sym}{word_sym}{word}{eos_sym}')
+            # if rev:
+            #     samples.append(f'{word_sym}{word}{pad_sym}{def_sym}{d}{eos_sym}')
+            # else:
+            #     samples.append(f'{def_sym}{d}{pad_sym}{word_sym}{word}{eos_sym}')
+            if not d:
+                continue
+
+            if word == d:
+                continue
+
+            if d in def_cache:
+                continue
+
+            if len(d) < 4:
+                print('Def: ', d)
+                import pdb
+                pdb.set_trace()
+            samples.append({
+                'word': word_sym + word,
+                'text': def_sym + d,
+            })
+
+            def_cache.add(d)
 
         # add all examples
         for e in exs:
-            samples.append(f'{ex_sym}{e}{pad_sym}{word_sym}{word}{eos_sym}')
+            # if rev:
+            #     samples.append(f'{word_sym}{word}{pad_sym}{ex_sym}{e}{eos_sym}')
+            # else:
+            #     samples.append(f'{ex_sym}{e}{pad_sym}{word_sym}{word}{eos_sym}')
+
+            if e in ex_cache:
+                continue
+
+            elen = len(e)
+            if word in e and len(word) / elen > 0.5:
+                continue
+
+            if elen < 6:
+                if 'Audio' == e:
+                    continue
+                continue
+            elif elen > 512:
+                continue
+
+            samples.append({
+                'word': word_sym + word,
+                'text': ex_sym + e,
+            })
+
+            ex_cache.add(e)
 
     print(f'{len(samples)} samples found.')
 
@@ -87,7 +136,8 @@ def preprocess_pd(
 
     for k, vs in splits.items():
         print(len(vs), 'samples in', k)
-        # with open(f'./{path}_{k}.txt', 'w+') as fp:
+        json.dump(vs, open(f'./{path}_{k}.json', 'w+'), indent=2)
+        # with open(f'./{path}{"_rev" if rev else ""}_{k}.txt', 'w+') as fp:
         #     for v in tqdm(vs, desc=k, total=len(vs)):
         #         fp.write(v + '\n')
 
@@ -147,4 +197,5 @@ if __name__ == '__main__':
     # ]
     # preprocess(toy_example)
 
-    preprocess_pd('words_dataset')
+    preprocess_pd('words_dataset_unique.csv')
+    # preprocess_pd('words_dataset', rev=True)
