@@ -1,0 +1,1416 @@
+[
+  {
+    "sample_id": 0,
+    "synset_id": "wear.v.09",
+    "words": "wear;put on;get into;don;assume",
+    "definition": "put clothing on one's body",
+    "example": "What should I wear today?"
+  },
+  {
+    "sample_id": 1,
+    "synset_id": "wear.v.09",
+    "words": "wear;put on;get into;don;assume",
+    "definition": "put clothing on one's body",
+    "example": "He put on his best suit for the wedding"
+  },
+  {
+    "sample_id": 2,
+    "synset_id": "wear.v.09",
+    "words": "wear;put on;get into;don;assume",
+    "definition": "put clothing on one's body",
+    "example": "The princess donned a long blue dress"
+  },
+  {
+    "sample_id": 3,
+    "synset_id": "wear.v.09",
+    "words": "wear;put on;get into;don;assume",
+    "definition": "put clothing on one's body",
+    "example": "The queen assumed the stately robes"
+  },
+  {
+    "sample_id": 4,
+    "synset_id": "wear.v.09",
+    "words": "wear;put on;get into;don;assume",
+    "definition": "put clothing on one's body",
+    "example": "He got into his jeans"
+  },
+  {
+    "sample_id": 5,
+    "synset_id": "make.v.02",
+    "words": "make;get",
+    "definition": "give certain properties to something",
+    "example": "get someone mad"
+  },
+  {
+    "sample_id": 6,
+    "synset_id": "make.v.02",
+    "words": "make;get",
+    "definition": "give certain properties to something",
+    "example": "She made us look silly"
+  },
+  {
+    "sample_id": 7,
+    "synset_id": "make.v.02",
+    "words": "make;get",
+    "definition": "give certain properties to something",
+    "example": "He made a fool of himself at the meeting"
+  },
+  {
+    "sample_id": 8,
+    "synset_id": "make.v.02",
+    "words": "make;get",
+    "definition": "give certain properties to something",
+    "example": "Don't make this into a big deal"
+  },
+  {
+    "sample_id": 9,
+    "synset_id": "make.v.02",
+    "words": "make;get",
+    "definition": "give certain properties to something",
+    "example": "This invention will make you a millionaire"
+  },
+  {
+    "sample_id": 10,
+    "synset_id": "make.v.02",
+    "words": "make;get",
+    "definition": "give certain properties to something",
+    "example": "Make yourself clear"
+  },
+  {
+    "sample_id": 11,
+    "synset_id": "become.v.01",
+    "words": "become;go;get",
+    "definition": "enter or assume a certain state or condition",
+    "example": "He became annoyed when he heard the bad news"
+  },
+  {
+    "sample_id": 12,
+    "synset_id": "become.v.01",
+    "words": "become;go;get",
+    "definition": "enter or assume a certain state or condition",
+    "example": "It must be getting more serious"
+  },
+  {
+    "sample_id": 13,
+    "synset_id": "become.v.01",
+    "words": "become;go;get",
+    "definition": "enter or assume a certain state or condition",
+    "example": "her face went red with anger"
+  },
+  {
+    "sample_id": 14,
+    "synset_id": "become.v.01",
+    "words": "become;go;get",
+    "definition": "enter or assume a certain state or condition",
+    "example": "She went into ecstasy"
+  },
+  {
+    "sample_id": 15,
+    "synset_id": "become.v.01",
+    "words": "become;go;get",
+    "definition": "enter or assume a certain state or condition",
+    "example": "Get going!"
+  },
+  {
+    "sample_id": 16,
+    "synset_id": "remove.v.01",
+    "words": "remove;take;take away;withdraw",
+    "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+    "example": "remove a threat"
+  },
+  {
+    "sample_id": 17,
+    "synset_id": "remove.v.01",
+    "words": "remove;take;take away;withdraw",
+    "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+    "example": "remove a wrapper"
+  },
+  {
+    "sample_id": 18,
+    "synset_id": "remove.v.01",
+    "words": "remove;take;take away;withdraw",
+    "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+    "example": "Remove the dirty dishes from the table"
+  },
+  {
+    "sample_id": 19,
+    "synset_id": "remove.v.01",
+    "words": "remove;take;take away;withdraw",
+    "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+    "example": "take the gun from your pocket"
+  },
+  {
+    "sample_id": 20,
+    "synset_id": "remove.v.01",
+    "words": "remove;take;take away;withdraw",
+    "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+    "example": "This machine withdraws heat from the environment"
+  },
+  {
+    "sample_id": 21,
+    "synset_id": "get_down.v.07",
+    "words": "get down;begin;get;start out;start;set about;set out;commence",
+    "definition": "take the first step or steps in carrying out an action",
+    "example": "We began working at dawn"
+  },
+  {
+    "sample_id": 22,
+    "synset_id": "get_down.v.07",
+    "words": "get down;begin;get;start out;start;set about;set out;commence",
+    "definition": "take the first step or steps in carrying out an action",
+    "example": "Who will start?"
+  },
+  {
+    "sample_id": 23,
+    "synset_id": "get_down.v.07",
+    "words": "get down;begin;get;start out;start;set about;set out;commence",
+    "definition": "take the first step or steps in carrying out an action",
+    "example": "Get working as soon as the sun rises!"
+  },
+  {
+    "sample_id": 24,
+    "synset_id": "get_down.v.07",
+    "words": "get down;begin;get;start out;start;set about;set out;commence",
+    "definition": "take the first step or steps in carrying out an action",
+    "example": "The first tourists began to arrive in Cambodia"
+  },
+  {
+    "sample_id": 25,
+    "synset_id": "get_down.v.07",
+    "words": "get down;begin;get;start out;start;set about;set out;commence",
+    "definition": "take the first step or steps in carrying out an action",
+    "example": "He began early in the day"
+  },
+  {
+    "sample_id": 26,
+    "synset_id": "get_down.v.07",
+    "words": "get down;begin;get;start out;start;set about;set out;commence",
+    "definition": "take the first step or steps in carrying out an action",
+    "example": "Let's get down to work now"
+  },
+  {
+    "sample_id": 27,
+    "synset_id": "fail.v.04",
+    "words": "fail;go bad;give way;die;give out;conk out;go;break;break down",
+    "definition": "stop operating or functioning",
+    "example": "The engine finally went"
+  },
+  {
+    "sample_id": 28,
+    "synset_id": "fail.v.04",
+    "words": "fail;go bad;give way;die;give out;conk out;go;break;break down",
+    "definition": "stop operating or functioning",
+    "example": "The car died on the road"
+  },
+  {
+    "sample_id": 29,
+    "synset_id": "fail.v.04",
+    "words": "fail;go bad;give way;die;give out;conk out;go;break;break down",
+    "definition": "stop operating or functioning",
+    "example": "The bus we travelled in broke down on the way to town"
+  },
+  {
+    "sample_id": 30,
+    "synset_id": "fail.v.04",
+    "words": "fail;go bad;give way;die;give out;conk out;go;break;break down",
+    "definition": "stop operating or functioning",
+    "example": "The coffee maker broke"
+  },
+  {
+    "sample_id": 31,
+    "synset_id": "fail.v.04",
+    "words": "fail;go bad;give way;die;give out;conk out;go;break;break down",
+    "definition": "stop operating or functioning",
+    "example": "The engine failed on the way to town"
+  },
+  {
+    "sample_id": 32,
+    "synset_id": "fail.v.04",
+    "words": "fail;go bad;give way;die;give out;conk out;go;break;break down",
+    "definition": "stop operating or functioning",
+    "example": "her eyesight went after the accident"
+  },
+  {
+    "sample_id": 33,
+    "synset_id": "assume.v.03",
+    "words": "assume;acquire;adopt;take on;take",
+    "definition": "take on a certain form, attribute, or aspect",
+    "example": "His voice took on a sad tone"
+  },
+  {
+    "sample_id": 34,
+    "synset_id": "assume.v.03",
+    "words": "assume;acquire;adopt;take on;take",
+    "definition": "take on a certain form, attribute, or aspect",
+    "example": "The story took a new turn"
+  },
+  {
+    "sample_id": 35,
+    "synset_id": "assume.v.03",
+    "words": "assume;acquire;adopt;take on;take",
+    "definition": "take on a certain form, attribute, or aspect",
+    "example": "he adopted an air of superiority"
+  },
+  {
+    "sample_id": 36,
+    "synset_id": "assume.v.03",
+    "words": "assume;acquire;adopt;take on;take",
+    "definition": "take on a certain form, attribute, or aspect",
+    "example": "She assumed strange manners"
+  },
+  {
+    "sample_id": 37,
+    "synset_id": "assume.v.03",
+    "words": "assume;acquire;adopt;take on;take",
+    "definition": "take on a certain form, attribute, or aspect",
+    "example": "The gods assume human or animal form in these fables"
+  },
+  {
+    "sample_id": 38,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "The water came to a boil"
+  },
+  {
+    "sample_id": 39,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "We came to understand the true meaning of life"
+  },
+  {
+    "sample_id": 40,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "Their anger came to a boil"
+  },
+  {
+    "sample_id": 41,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "I came to realize the true meaning of life"
+  },
+  {
+    "sample_id": 42,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "The shoes came untied"
+  },
+  {
+    "sample_id": 43,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "come into contact with a terrorist group"
+  },
+  {
+    "sample_id": 44,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "his face went red"
+  },
+  {
+    "sample_id": 45,
+    "synset_id": "come.v.04",
+    "words": "come",
+    "definition": "reach or enter a state, relation, condition, use, or position",
+    "example": "your wish will come true"
+  },
+  {
+    "sample_id": 46,
+    "synset_id": "catch.v.18",
+    "words": "catch;get",
+    "definition": "grasp with the mind or develop an understanding of",
+    "example": "did you catch that allusion?"
+  },
+  {
+    "sample_id": 47,
+    "synset_id": "catch.v.18",
+    "words": "catch;get",
+    "definition": "grasp with the mind or develop an understanding of",
+    "example": "We caught something of his theory in the lecture"
+  },
+  {
+    "sample_id": 48,
+    "synset_id": "catch.v.18",
+    "words": "catch;get",
+    "definition": "grasp with the mind or develop an understanding of",
+    "example": "don't catch your meaning"
+  },
+  {
+    "sample_id": 49,
+    "synset_id": "catch.v.18",
+    "words": "catch;get",
+    "definition": "grasp with the mind or develop an understanding of",
+    "example": "did you get it?"
+  },
+  {
+    "sample_id": 50,
+    "synset_id": "catch.v.18",
+    "words": "catch;get",
+    "definition": "grasp with the mind or develop an understanding of",
+    "example": "She didn't get the joke"
+  },
+  {
+    "sample_id": 51,
+    "synset_id": "catch.v.18",
+    "words": "catch;get",
+    "definition": "grasp with the mind or develop an understanding of",
+    "example": "I just don't get him"
+  },
+  {
+    "sample_id": 52,
+    "synset_id": "know.v.04",
+    "words": "know",
+    "definition": "be familiar or acquainted with a person or an object",
+    "example": "She doesn't know this composer"
+  },
+  {
+    "sample_id": 53,
+    "synset_id": "know.v.04",
+    "words": "know",
+    "definition": "be familiar or acquainted with a person or an object",
+    "example": "Do you know my sister?"
+  },
+  {
+    "sample_id": 54,
+    "synset_id": "know.v.04",
+    "words": "know",
+    "definition": "be familiar or acquainted with a person or an object",
+    "example": "We know this movie"
+  },
+  {
+    "sample_id": 55,
+    "synset_id": "know.v.04",
+    "words": "know",
+    "definition": "be familiar or acquainted with a person or an object",
+    "example": "I know him under a different name"
+  },
+  {
+    "sample_id": 56,
+    "synset_id": "know.v.04",
+    "words": "know",
+    "definition": "be familiar or acquainted with a person or an object",
+    "example": "This flower is known as a Peruvian Lily"
+  },
+  {
+    "sample_id": 57,
+    "synset_id": "know.v.05",
+    "words": "know;experience;live",
+    "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+    "example": "I know the feeling!"
+  },
+  {
+    "sample_id": 58,
+    "synset_id": "know.v.05",
+    "words": "know;experience;live",
+    "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+    "example": "have you ever known hunger?"
+  },
+  {
+    "sample_id": 59,
+    "synset_id": "know.v.05",
+    "words": "know;experience;live",
+    "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+    "example": "I have lived a kind of hell when I was a drug addict"
+  },
+  {
+    "sample_id": 60,
+    "synset_id": "know.v.05",
+    "words": "know;experience;live",
+    "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+    "example": "The holocaust survivors have lived a nightmare"
+  },
+  {
+    "sample_id": 61,
+    "synset_id": "know.v.05",
+    "words": "know;experience;live",
+    "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+    "example": "I lived through two divorces"
+  },
+  {
+    "sample_id": 62,
+    "synset_id": "solve.v.01",
+    "words": "solve;work out;figure out;puzzle out;lick;work",
+    "definition": "find the solution to (a problem or question) or understand the meaning of",
+    "example": "did you solve the problem?"
+  },
+  {
+    "sample_id": 63,
+    "synset_id": "solve.v.01",
+    "words": "solve;work out;figure out;puzzle out;lick;work",
+    "definition": "find the solution to (a problem or question) or understand the meaning of",
+    "example": "Work out your problems with the boss"
+  },
+  {
+    "sample_id": 64,
+    "synset_id": "solve.v.01",
+    "words": "solve;work out;figure out;puzzle out;lick;work",
+    "definition": "find the solution to (a problem or question) or understand the meaning of",
+    "example": "this unpleasant situation isn't going to work itself out"
+  },
+  {
+    "sample_id": 65,
+    "synset_id": "solve.v.01",
+    "words": "solve;work out;figure out;puzzle out;lick;work",
+    "definition": "find the solution to (a problem or question) or understand the meaning of",
+    "example": "did you get it?"
+  },
+  {
+    "sample_id": 66,
+    "synset_id": "solve.v.01",
+    "words": "solve;work out;figure out;puzzle out;lick;work",
+    "definition": "find the solution to (a problem or question) or understand the meaning of",
+    "example": "Did you get my meaning?"
+  },
+  {
+    "sample_id": 67,
+    "synset_id": "solve.v.01",
+    "words": "solve;work out;figure out;puzzle out;lick;work",
+    "definition": "find the solution to (a problem or question) or understand the meaning of",
+    "example": "He could not work the math problem"
+  },
+  {
+    "sample_id": 68,
+    "synset_id": "draw.v.04",
+    "words": "draw;make",
+    "definition": "make, formulate, or derive in the mind",
+    "example": "I draw a line here"
+  },
+  {
+    "sample_id": 69,
+    "synset_id": "draw.v.04",
+    "words": "draw;make",
+    "definition": "make, formulate, or derive in the mind",
+    "example": "draw a conclusion"
+  },
+  {
+    "sample_id": 70,
+    "synset_id": "draw.v.04",
+    "words": "draw;make",
+    "definition": "make, formulate, or derive in the mind",
+    "example": "draw parallels"
+  },
+  {
+    "sample_id": 71,
+    "synset_id": "draw.v.04",
+    "words": "draw;make",
+    "definition": "make, formulate, or derive in the mind",
+    "example": "make an estimate"
+  },
+  {
+    "sample_id": 72,
+    "synset_id": "draw.v.04",
+    "words": "draw;make",
+    "definition": "make, formulate, or derive in the mind",
+    "example": "What do you make of his remarks?"
+  },
+  {
+    "sample_id": 73,
+    "synset_id": "unwrap.v.02",
+    "words": "unwrap;disclose;let on;bring out;reveal;discover;expose;divulge;break;give away;let out",
+    "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+    "example": "The auction house would not disclose the price at which the van Gogh had sold"
+  },
+  {
+    "sample_id": 74,
+    "synset_id": "unwrap.v.02",
+    "words": "unwrap;disclose;let on;bring out;reveal;discover;expose;divulge;break;give away;let out",
+    "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+    "example": "The actress won't reveal how old she is"
+  },
+  {
+    "sample_id": 75,
+    "synset_id": "unwrap.v.02",
+    "words": "unwrap;disclose;let on;bring out;reveal;discover;expose;divulge;break;give away;let out",
+    "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+    "example": "bring out the truth"
+  },
+  {
+    "sample_id": 76,
+    "synset_id": "unwrap.v.02",
+    "words": "unwrap;disclose;let on;bring out;reveal;discover;expose;divulge;break;give away;let out",
+    "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+    "example": "he broke the news to her"
+  },
+  {
+    "sample_id": 77,
+    "synset_id": "unwrap.v.02",
+    "words": "unwrap;disclose;let on;bring out;reveal;discover;expose;divulge;break;give away;let out",
+    "definition": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+    "example": "unwrap the evidence in the murder case"
+  },
+  {
+    "sample_id": 78,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "use your head!"
+  },
+  {
+    "sample_id": 79,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "we only use Spanish at home"
+  },
+  {
+    "sample_id": 80,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "I can't use this tool"
+  },
+  {
+    "sample_id": 81,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "Apply a magnetic field here"
+  },
+  {
+    "sample_id": 82,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "This thinking was applied to many projects"
+  },
+  {
+    "sample_id": 83,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "How do you utilize this tool?"
+  },
+  {
+    "sample_id": 84,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "I apply this rule to get good results"
+  },
+  {
+    "sample_id": 85,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "use the plastic bags to store the food"
+  },
+  {
+    "sample_id": 86,
+    "synset_id": "use.v.01",
+    "words": "use;utilize;utilise;apply;employ",
+    "definition": "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+    "example": "He doesn't know how to use a computer"
+  },
+  {
+    "sample_id": 87,
+    "synset_id": "bring.v.03",
+    "words": "bring;work;play;wreak;make for",
+    "definition": "cause to happen or to occur as a consequence",
+    "example": "I cannot work a miracle"
+  },
+  {
+    "sample_id": 88,
+    "synset_id": "bring.v.03",
+    "words": "bring;work;play;wreak;make for",
+    "definition": "cause to happen or to occur as a consequence",
+    "example": "wreak havoc"
+  },
+  {
+    "sample_id": 89,
+    "synset_id": "bring.v.03",
+    "words": "bring;work;play;wreak;make for",
+    "definition": "cause to happen or to occur as a consequence",
+    "example": "bring comments"
+  },
+  {
+    "sample_id": 90,
+    "synset_id": "bring.v.03",
+    "words": "bring;work;play;wreak;make for",
+    "definition": "cause to happen or to occur as a consequence",
+    "example": "play a joke"
+  },
+  {
+    "sample_id": 91,
+    "synset_id": "bring.v.03",
+    "words": "bring;work;play;wreak;make for",
+    "definition": "cause to happen or to occur as a consequence",
+    "example": "The rain brought relief to the drought-stricken area"
+  },
+  {
+    "sample_id": 92,
+    "synset_id": "start.v.06",
+    "words": "start;start up;embark on;commence",
+    "definition": "get off the ground",
+    "example": "Who started this company?"
+  },
+  {
+    "sample_id": 93,
+    "synset_id": "start.v.06",
+    "words": "start;start up;embark on;commence",
+    "definition": "get off the ground",
+    "example": "We embarked on an exciting enterprise"
+  },
+  {
+    "sample_id": 94,
+    "synset_id": "start.v.06",
+    "words": "start;start up;embark on;commence",
+    "definition": "get off the ground",
+    "example": "I start my day with a good breakfast"
+  },
+  {
+    "sample_id": 95,
+    "synset_id": "start.v.06",
+    "words": "start;start up;embark on;commence",
+    "definition": "get off the ground",
+    "example": "We began the new semester"
+  },
+  {
+    "sample_id": 96,
+    "synset_id": "start.v.06",
+    "words": "start;start up;embark on;commence",
+    "definition": "get off the ground",
+    "example": "The afternoon session begins at 4 PM"
+  },
+  {
+    "sample_id": 97,
+    "synset_id": "start.v.06",
+    "words": "start;start up;embark on;commence",
+    "definition": "get off the ground",
+    "example": "The blood shed started when the partisans launched a surprise attack"
+  },
+  {
+    "sample_id": 98,
+    "synset_id": "travel.v.01",
+    "words": "travel;go;move;locomote",
+    "definition": "change location; move, travel, or proceed, also metaphorically",
+    "example": "How fast does your new car go?"
+  },
+  {
+    "sample_id": 99,
+    "synset_id": "travel.v.01",
+    "words": "travel;go;move;locomote",
+    "definition": "change location; move, travel, or proceed, also metaphorically",
+    "example": "We travelled from Rome to Naples by bus"
+  },
+  {
+    "sample_id": 100,
+    "synset_id": "travel.v.01",
+    "words": "travel;go;move;locomote",
+    "definition": "change location; move, travel, or proceed, also metaphorically",
+    "example": "The policemen went from door to door looking for the suspect"
+  },
+  {
+    "sample_id": 101,
+    "synset_id": "travel.v.01",
+    "words": "travel;go;move;locomote",
+    "definition": "change location; move, travel, or proceed, also metaphorically",
+    "example": "The soldiers moved towards the city in an attempt to take it before night fell"
+  },
+  {
+    "sample_id": 102,
+    "synset_id": "travel.v.01",
+    "words": "travel;go;move;locomote",
+    "definition": "change location; move, travel, or proceed, also metaphorically",
+    "example": "news travelled fast"
+  },
+  {
+    "sample_id": 103,
+    "synset_id": "come.v.01",
+    "words": "come;come up",
+    "definition": "move toward, travel toward something or somebody or approach something or somebody",
+    "example": "He came singing down the road"
+  },
+  {
+    "sample_id": 104,
+    "synset_id": "come.v.01",
+    "words": "come;come up",
+    "definition": "move toward, travel toward something or somebody or approach something or somebody",
+    "example": "Come with me to the Casbah"
+  },
+  {
+    "sample_id": 105,
+    "synset_id": "come.v.01",
+    "words": "come;come up",
+    "definition": "move toward, travel toward something or somebody or approach something or somebody",
+    "example": "come down here!"
+  },
+  {
+    "sample_id": 106,
+    "synset_id": "come.v.01",
+    "words": "come;come up",
+    "definition": "move toward, travel toward something or somebody or approach something or somebody",
+    "example": "come out of the closet!"
+  },
+  {
+    "sample_id": 107,
+    "synset_id": "come.v.01",
+    "words": "come;come up",
+    "definition": "move toward, travel toward something or somebody or approach something or somebody",
+    "example": "come into the room"
+  },
+  {
+    "sample_id": 108,
+    "synset_id": "assume.v.05",
+    "words": "assume;take;strike;take up",
+    "definition": "occupy or take on",
+    "example": "He assumes the lotus position"
+  },
+  {
+    "sample_id": 109,
+    "synset_id": "assume.v.05",
+    "words": "assume;take;strike;take up",
+    "definition": "occupy or take on",
+    "example": "She took her seat on the stage"
+  },
+  {
+    "sample_id": 110,
+    "synset_id": "assume.v.05",
+    "words": "assume;take;strike;take up",
+    "definition": "occupy or take on",
+    "example": "We took our seats in the orchestra"
+  },
+  {
+    "sample_id": 111,
+    "synset_id": "assume.v.05",
+    "words": "assume;take;strike;take up",
+    "definition": "occupy or take on",
+    "example": "She took up her position behind the tree"
+  },
+  {
+    "sample_id": 112,
+    "synset_id": "assume.v.05",
+    "words": "assume;take;strike;take up",
+    "definition": "occupy or take on",
+    "example": "strike a pose"
+  },
+  {
+    "sample_id": 113,
+    "synset_id": "collapse.v.01",
+    "words": "collapse;fall in;cave in;give;give way;break;founder",
+    "definition": "break down, literally or metaphorically",
+    "example": "The wall collapsed"
+  },
+  {
+    "sample_id": 114,
+    "synset_id": "collapse.v.01",
+    "words": "collapse;fall in;cave in;give;give way;break;founder",
+    "definition": "break down, literally or metaphorically",
+    "example": "The business collapsed"
+  },
+  {
+    "sample_id": 115,
+    "synset_id": "collapse.v.01",
+    "words": "collapse;fall in;cave in;give;give way;break;founder",
+    "definition": "break down, literally or metaphorically",
+    "example": "The dam broke"
+  },
+  {
+    "sample_id": 116,
+    "synset_id": "collapse.v.01",
+    "words": "collapse;fall in;cave in;give;give way;break;founder",
+    "definition": "break down, literally or metaphorically",
+    "example": "The roof collapsed"
+  },
+  {
+    "sample_id": 117,
+    "synset_id": "collapse.v.01",
+    "words": "collapse;fall in;cave in;give;give way;break;founder",
+    "definition": "break down, literally or metaphorically",
+    "example": "The wall gave in"
+  },
+  {
+    "sample_id": 118,
+    "synset_id": "collapse.v.01",
+    "words": "collapse;fall in;cave in;give;give way;break;founder",
+    "definition": "break down, literally or metaphorically",
+    "example": "The roof finally gave under the weight of the ice"
+  },
+  {
+    "sample_id": 119,
+    "synset_id": "experience.v.03",
+    "words": "experience;receive;have;get",
+    "definition": "go through (mental or physical states or experiences)",
+    "example": "get an idea"
+  },
+  {
+    "sample_id": 120,
+    "synset_id": "experience.v.03",
+    "words": "experience;receive;have;get",
+    "definition": "go through (mental or physical states or experiences)",
+    "example": "experience vertigo"
+  },
+  {
+    "sample_id": 121,
+    "synset_id": "experience.v.03",
+    "words": "experience;receive;have;get",
+    "definition": "go through (mental or physical states or experiences)",
+    "example": "get nauseous"
+  },
+  {
+    "sample_id": 122,
+    "synset_id": "experience.v.03",
+    "words": "experience;receive;have;get",
+    "definition": "go through (mental or physical states or experiences)",
+    "example": "receive injuries"
+  },
+  {
+    "sample_id": 123,
+    "synset_id": "experience.v.03",
+    "words": "experience;receive;have;get",
+    "definition": "go through (mental or physical states or experiences)",
+    "example": "have a feeling"
+  },
+  {
+    "sample_id": 124,
+    "synset_id": "hit.v.09",
+    "words": "hit;strike;come to",
+    "definition": "cause to experience suddenly",
+    "example": "Panic struck me"
+  },
+  {
+    "sample_id": 125,
+    "synset_id": "hit.v.09",
+    "words": "hit;strike;come to",
+    "definition": "cause to experience suddenly",
+    "example": "An interesting idea hit her"
+  },
+  {
+    "sample_id": 126,
+    "synset_id": "hit.v.09",
+    "words": "hit;strike;come to",
+    "definition": "cause to experience suddenly",
+    "example": "A thought came to me"
+  },
+  {
+    "sample_id": 127,
+    "synset_id": "hit.v.09",
+    "words": "hit;strike;come to",
+    "definition": "cause to experience suddenly",
+    "example": "The thought struck terror in our minds"
+  },
+  {
+    "sample_id": 128,
+    "synset_id": "hit.v.09",
+    "words": "hit;strike;come to",
+    "definition": "cause to experience suddenly",
+    "example": "They were struck with fear"
+  },
+  {
+    "sample_id": 129,
+    "synset_id": "catch.v.02",
+    "words": "catch;pick up",
+    "definition": "perceive with the senses quickly, suddenly, or momentarily",
+    "example": "I caught the aroma of coffee"
+  },
+  {
+    "sample_id": 130,
+    "synset_id": "catch.v.02",
+    "words": "catch;pick up",
+    "definition": "perceive with the senses quickly, suddenly, or momentarily",
+    "example": "He caught the allusion in her glance"
+  },
+  {
+    "sample_id": 131,
+    "synset_id": "catch.v.02",
+    "words": "catch;pick up",
+    "definition": "perceive with the senses quickly, suddenly, or momentarily",
+    "example": "ears open to catch every sound"
+  },
+  {
+    "sample_id": 132,
+    "synset_id": "catch.v.02",
+    "words": "catch;pick up",
+    "definition": "perceive with the senses quickly, suddenly, or momentarily",
+    "example": "The dog picked up the scent"
+  },
+  {
+    "sample_id": 133,
+    "synset_id": "catch.v.02",
+    "words": "catch;pick up",
+    "definition": "perceive with the senses quickly, suddenly, or momentarily",
+    "example": "Catch a glimpse"
+  },
+  {
+    "sample_id": 134,
+    "synset_id": "watch.v.03",
+    "words": "watch;view;see;catch;take in",
+    "definition": "see or watch",
+    "example": "view a show on television"
+  },
+  {
+    "sample_id": 135,
+    "synset_id": "watch.v.03",
+    "words": "watch;view;see;catch;take in",
+    "definition": "see or watch",
+    "example": "This program will be seen all over the world"
+  },
+  {
+    "sample_id": 136,
+    "synset_id": "watch.v.03",
+    "words": "watch;view;see;catch;take in",
+    "definition": "see or watch",
+    "example": "view an exhibition"
+  },
+  {
+    "sample_id": 137,
+    "synset_id": "watch.v.03",
+    "words": "watch;view;see;catch;take in",
+    "definition": "see or watch",
+    "example": "Catch a show on Broadway"
+  },
+  {
+    "sample_id": 138,
+    "synset_id": "watch.v.03",
+    "words": "watch;view;see;catch;take in",
+    "definition": "see or watch",
+    "example": "see a movie"
+  },
+  {
+    "sample_id": 139,
+    "synset_id": "leave.v.08",
+    "words": "leave;depart;pull up stakes",
+    "definition": "remove oneself from an association with or participation in",
+    "example": "She wants to leave"
+  },
+  {
+    "sample_id": 140,
+    "synset_id": "leave.v.08",
+    "words": "leave;depart;pull up stakes",
+    "definition": "remove oneself from an association with or participation in",
+    "example": "The teenager left home"
+  },
+  {
+    "sample_id": 141,
+    "synset_id": "leave.v.08",
+    "words": "leave;depart;pull up stakes",
+    "definition": "remove oneself from an association with or participation in",
+    "example": "She left her position with the Red Cross"
+  },
+  {
+    "sample_id": 142,
+    "synset_id": "leave.v.08",
+    "words": "leave;depart;pull up stakes",
+    "definition": "remove oneself from an association with or participation in",
+    "example": "He left the Senate after two terms"
+  },
+  {
+    "sample_id": 143,
+    "synset_id": "leave.v.08",
+    "words": "leave;depart;pull up stakes",
+    "definition": "remove oneself from an association with or participation in",
+    "example": "after 20 years with the same company, she pulled up stakes"
+  },
+  {
+    "sample_id": 144,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "We cannot continue several servants any longer"
+  },
+  {
+    "sample_id": 145,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "She retains a lawyer"
+  },
+  {
+    "sample_id": 146,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "The family's fortune waned and they could not keep their household staff"
+  },
+  {
+    "sample_id": 147,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "Our grant has run out and we cannot keep you on"
+  },
+  {
+    "sample_id": 148,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "We kept the work going as long as we could"
+  },
+  {
+    "sample_id": 149,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "She retained her composure"
+  },
+  {
+    "sample_id": 150,
+    "synset_id": "retain.v.02",
+    "words": "retain;continue;keep;keep on",
+    "definition": "allow to remain in a place or position or maintain a property or feature",
+    "example": "this garment retains its shape even after many washings"
+  },
+  {
+    "sample_id": 151,
+    "synset_id": "work.v.02",
+    "words": "work;do work",
+    "definition": "be employed",
+    "example": "Is your husband working again?"
+  },
+  {
+    "sample_id": 152,
+    "synset_id": "work.v.02",
+    "words": "work;do work",
+    "definition": "be employed",
+    "example": "My wife never worked"
+  },
+  {
+    "sample_id": 153,
+    "synset_id": "work.v.02",
+    "words": "work;do work",
+    "definition": "be employed",
+    "example": "Do you want to work after the age of 60?"
+  },
+  {
+    "sample_id": 154,
+    "synset_id": "work.v.02",
+    "words": "work;do work",
+    "definition": "be employed",
+    "example": "She never did any work because she inherited a lot of money"
+  },
+  {
+    "sample_id": 155,
+    "synset_id": "work.v.02",
+    "words": "work;do work",
+    "definition": "be employed",
+    "example": "She works as a waitress to put herself through college"
+  },
+  {
+    "sample_id": 156,
+    "synset_id": "work.v.03",
+    "words": "work;act",
+    "definition": "have an effect or outcome; often the one desired or expected",
+    "example": "The voting process doesn't work as well as people thought"
+  },
+  {
+    "sample_id": 157,
+    "synset_id": "work.v.03",
+    "words": "work;act",
+    "definition": "have an effect or outcome; often the one desired or expected",
+    "example": "How does your idea work in practice?"
+  },
+  {
+    "sample_id": 158,
+    "synset_id": "work.v.03",
+    "words": "work;act",
+    "definition": "have an effect or outcome; often the one desired or expected",
+    "example": "This method doesn't work"
+  },
+  {
+    "sample_id": 159,
+    "synset_id": "work.v.03",
+    "words": "work;act",
+    "definition": "have an effect or outcome; often the one desired or expected",
+    "example": "The breaks of my new car act quickly"
+  },
+  {
+    "sample_id": 160,
+    "synset_id": "work.v.03",
+    "words": "work;act",
+    "definition": "have an effect or outcome; often the one desired or expected",
+    "example": "The medicine works only if you take it with a lot of water"
+  },
+  {
+    "sample_id": 161,
+    "synset_id": "serve.v.10",
+    "words": "serve;attend to;wait on;attend;assist",
+    "definition": "work for or be a servant to",
+    "example": "May I serve you?"
+  },
+  {
+    "sample_id": 162,
+    "synset_id": "serve.v.10",
+    "words": "serve;attend to;wait on;attend;assist",
+    "definition": "work for or be a servant to",
+    "example": "She attends the old lady in the wheelchair"
+  },
+  {
+    "sample_id": 163,
+    "synset_id": "serve.v.10",
+    "words": "serve;attend to;wait on;attend;assist",
+    "definition": "work for or be a servant to",
+    "example": "Can you wait on our table, please?"
+  },
+  {
+    "sample_id": 164,
+    "synset_id": "serve.v.10",
+    "words": "serve;attend to;wait on;attend;assist",
+    "definition": "work for or be a servant to",
+    "example": "Is a salesperson assisting you?"
+  },
+  {
+    "sample_id": 165,
+    "synset_id": "serve.v.10",
+    "words": "serve;attend to;wait on;attend;assist",
+    "definition": "work for or be a servant to",
+    "example": "The minister served the King for many years"
+  },
+  {
+    "sample_id": 166,
+    "synset_id": "make.v.01",
+    "words": "make;do",
+    "definition": "engage in",
+    "example": "make love, not war"
+  },
+  {
+    "sample_id": 167,
+    "synset_id": "make.v.01",
+    "words": "make;do",
+    "definition": "engage in",
+    "example": "make an effort"
+  },
+  {
+    "sample_id": 168,
+    "synset_id": "make.v.01",
+    "words": "make;do",
+    "definition": "engage in",
+    "example": "do research"
+  },
+  {
+    "sample_id": 169,
+    "synset_id": "make.v.01",
+    "words": "make;do",
+    "definition": "engage in",
+    "example": "do nothing"
+  },
+  {
+    "sample_id": 170,
+    "synset_id": "make.v.01",
+    "words": "make;do",
+    "definition": "engage in",
+    "example": "make revolution"
+  },
+  {
+    "sample_id": 171,
+    "synset_id": "practice.v.04",
+    "words": "practice;apply;use",
+    "definition": "avail oneself to",
+    "example": "apply a principle"
+  },
+  {
+    "sample_id": 172,
+    "synset_id": "practice.v.04",
+    "words": "practice;apply;use",
+    "definition": "avail oneself to",
+    "example": "practice a religion"
+  },
+  {
+    "sample_id": 173,
+    "synset_id": "practice.v.04",
+    "words": "practice;apply;use",
+    "definition": "avail oneself to",
+    "example": "use care when going down the stairs"
+  },
+  {
+    "sample_id": 174,
+    "synset_id": "practice.v.04",
+    "words": "practice;apply;use",
+    "definition": "avail oneself to",
+    "example": "use your common sense"
+  },
+  {
+    "sample_id": 175,
+    "synset_id": "practice.v.04",
+    "words": "practice;apply;use",
+    "definition": "avail oneself to",
+    "example": "practice non-violent resistance"
+  },
+  {
+    "sample_id": 176,
+    "synset_id": "necessitate.v.01",
+    "words": "necessitate;ask;postulate;need;require;take;involve;call for;demand",
+    "definition": "require as useful, just, or proper",
+    "example": "It takes nerve to do what she did"
+  },
+  {
+    "sample_id": 177,
+    "synset_id": "necessitate.v.01",
+    "words": "necessitate;ask;postulate;need;require;take;involve;call for;demand",
+    "definition": "require as useful, just, or proper",
+    "example": "success usually requires hard work"
+  },
+  {
+    "sample_id": 178,
+    "synset_id": "necessitate.v.01",
+    "words": "necessitate;ask;postulate;need;require;take;involve;call for;demand",
+    "definition": "require as useful, just, or proper",
+    "example": "This job asks a lot of patience and skill"
+  },
+  {
+    "sample_id": 179,
+    "synset_id": "necessitate.v.01",
+    "words": "necessitate;ask;postulate;need;require;take;involve;call for;demand",
+    "definition": "require as useful, just, or proper",
+    "example": "This position demands a lot of personal sacrifice"
+  },
+  {
+    "sample_id": 180,
+    "synset_id": "necessitate.v.01",
+    "words": "necessitate;ask;postulate;need;require;take;involve;call for;demand",
+    "definition": "require as useful, just, or proper",
+    "example": "This dinner calls for a spectacular dessert"
+  },
+  {
+    "sample_id": 181,
+    "synset_id": "necessitate.v.01",
+    "words": "necessitate;ask;postulate;need;require;take;involve;call for;demand",
+    "definition": "require as useful, just, or proper",
+    "example": "This intervention does not postulate a patient's consent"
+  },
+  {
+    "sample_id": 182,
+    "synset_id": "suffice.v.01",
+    "words": "suffice;do;answer;serve",
+    "definition": "be sufficient; be adequate, either in quality or quantity",
+    "example": "A few words would answer"
+  },
+  {
+    "sample_id": 183,
+    "synset_id": "suffice.v.01",
+    "words": "suffice;do;answer;serve",
+    "definition": "be sufficient; be adequate, either in quality or quantity",
+    "example": "This car suits my purpose well"
+  },
+  {
+    "sample_id": 184,
+    "synset_id": "suffice.v.01",
+    "words": "suffice;do;answer;serve",
+    "definition": "be sufficient; be adequate, either in quality or quantity",
+    "example": "Will $100 do?"
+  },
+  {
+    "sample_id": 185,
+    "synset_id": "suffice.v.01",
+    "words": "suffice;do;answer;serve",
+    "definition": "be sufficient; be adequate, either in quality or quantity",
+    "example": "A 'B' grade doesn't suffice to get me into medical school"
+  },
+  {
+    "sample_id": 186,
+    "synset_id": "suffice.v.01",
+    "words": "suffice;do;answer;serve",
+    "definition": "be sufficient; be adequate, either in quality or quantity",
+    "example": "Nothing else will serve"
+  },
+  {
+    "sample_id": 187,
+    "synset_id": "serve.v.01",
+    "words": "serve;function",
+    "definition": "serve a purpose, role, or function",
+    "example": "The tree stump serves as a table"
+  },
+  {
+    "sample_id": 188,
+    "synset_id": "serve.v.01",
+    "words": "serve;function",
+    "definition": "serve a purpose, role, or function",
+    "example": "The female students served as a control group"
+  },
+  {
+    "sample_id": 189,
+    "synset_id": "serve.v.01",
+    "words": "serve;function",
+    "definition": "serve a purpose, role, or function",
+    "example": "This table would serve very well"
+  },
+  {
+    "sample_id": 190,
+    "synset_id": "serve.v.01",
+    "words": "serve;function",
+    "definition": "serve a purpose, role, or function",
+    "example": "His freedom served him well"
+  },
+  {
+    "sample_id": 191,
+    "synset_id": "serve.v.01",
+    "words": "serve;function",
+    "definition": "serve a purpose, role, or function",
+    "example": "The table functions as a desk"
+  },
+  {
+    "sample_id": 192,
+    "synset_id": "cover.v.03",
+    "words": "cover;continue;extend",
+    "definition": "span an interval of distance, space or time",
+    "example": "The war extended over five years"
+  },
+  {
+    "sample_id": 193,
+    "synset_id": "cover.v.03",
+    "words": "cover;continue;extend",
+    "definition": "span an interval of distance, space or time",
+    "example": "The period covered the turn of the century"
+  },
+  {
+    "sample_id": 194,
+    "synset_id": "cover.v.03",
+    "words": "cover;continue;extend",
+    "definition": "span an interval of distance, space or time",
+    "example": "My land extends over the hills on the horizon"
+  },
+  {
+    "sample_id": 195,
+    "synset_id": "cover.v.03",
+    "words": "cover;continue;extend",
+    "definition": "span an interval of distance, space or time",
+    "example": "This farm covers some 200 acres"
+  },
+  {
+    "sample_id": 196,
+    "synset_id": "cover.v.03",
+    "words": "cover;continue;extend",
+    "definition": "span an interval of distance, space or time",
+    "example": "The Archipelago continues for another 500 miles"
+  },
+  {
+    "sample_id": 197,
+    "synset_id": "leave.v.06",
+    "words": "leave;allow for;allow;provide",
+    "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+    "example": "This leaves no room for improvement"
+  },
+  {
+    "sample_id": 198,
+    "synset_id": "leave.v.06",
+    "words": "leave;allow for;allow;provide",
+    "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+    "example": "The evidence allows only one conclusion"
+  },
+  {
+    "sample_id": 199,
+    "synset_id": "leave.v.06",
+    "words": "leave;allow for;allow;provide",
+    "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+    "example": "allow for mistakes"
+  },
+  {
+    "sample_id": 200,
+    "synset_id": "leave.v.06",
+    "words": "leave;allow for;allow;provide",
+    "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+    "example": "leave lots of time for the trip"
+  },
+  {
+    "sample_id": 201,
+    "synset_id": "leave.v.06",
+    "words": "leave;allow for;allow;provide",
+    "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+    "example": "This procedure provides for lots of leeway"
+  }
+]
