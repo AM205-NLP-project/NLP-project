@@ -1,0 +1,54 @@
+0: Word: father ; Definition: The father of a baby or child.
+1: Word: father ; Definition: A man who is the father of a child or young animal.
+2: Word: father ; Definition: A relative or partner of a person, usually of a religious or political persuasion, to whom or about whom he is or is not personally related.
+3: Word: father ; Definition: A person who serves as a mentor to another person.
+4: Word: father ; Definition: (chiefly UK, Ireland, US, New Zealand) A male relative.
+5: Word: father ; Definition: (UK, US) The person who owns the property. [from 19th c.]
+6: Word: father ; Definition: The male equivalent of a parent (as of a sibling).
+7: Word: father ; Definition: A male parent; one whose offspring bear the same name as the father.
+8: Word: father ; Definition: (countable) A female (male) who is a biological father.
+9: Word: father ; Definition: (uncountable, rare) A person who is the main source of authority for a person, usually male, in an area. [from 19th c.]
+--Return--
+> /Users/adrianatrejo-sheu/Harvard/AM205/NLP-project/tune/sampler.py(50)<module>()->None
+-> pdb.set_trace()
+(Pdb) 
+0: Word: mother ; Definition: (obsolete) A husband, wife, or widow.
+1: Word: mother ; Definition: A female member of a family of cattle.
+2: Word: mother ; Definition: Mother of a child; mother of a young.
+3: Word: mother ; Definition: (obsolete) The female head.
+4: Word: mother ; Definition: mother (plural mothers)
+5: Word: mother ; Definition: A daughter; a daughter's mother.
+6: Word: mother ; Definition: (UK) A person (who) lives in a household; a motherless person. [from 16th c.]
+7: Word: mother ; Definition: A daughter of one's mother or father, in many cultures.
+8: Word: mother ; Definition: (countable, slang, uncountable) A man or a woman who has been married for the past 30 years.
+9: Word: mother ; Definition: (UK, slang) A female employee; a woman.
+--Return--
+> /Users/adrianatrejo-sheu/Harvard/AM205/NLP-project/tune/sampler.py(50)<module>()->None
+-> pdb.set_trace()
+(Pdb) (Pdb) 0: Word: Engineer ; Definition: An engineering professional.
+1: Word: Engineer ; Definition: (Australia, New Zealand, obsolete) An official who works for, or in the employ of, an employer.
+2: Word: Engineer ; Definition: A person who builds, conducts or trains a machine for the purpose of producing electricity.
+3: Word: Engineer ; Definition: (UK) A person working on a machine or other facility designed for mechanical or electrical work.
+4: Word: Engineer ; Definition: A person or organization which manufactures or produces something, usually in an industrial setting.
+5: Word: Engineer ; Definition: A person who studies engineering.
+6: Word: Engineer ; Definition: One who works in the field of engineering.
+7: Word: Engineer ; Definition: One who works on, or is responsible for the construction of, an electrical system.
+8: Word: Engineer ; Definition: A person who does a variety of construction work.
+9: Word: Engineer ; Definition: Someone who builds or manufactures something.
+['Word: Engineer ; Definition: An engineering professional.', 'Word: Engineer ; Definition: (Australia, New Zealand, obsolete) An official who works for, or in the employ of, an employer.', 'Word: Engineer ; Definition: A person who builds, conducts or trains a machine for the purpose of producing electricity.', 'Word: Engineer ; Definition: (UK) A person working on a machine or other facility designed for mechanical or electrical work.', 'Word: Engineer ; Definition: A person or organization which manufactures or produces something, usually in an industrial setting.', 'Word: Engineer ; Definition: A person who studies engineering.', 'Word: Engineer ; Definition: One who works in the field of engineering.', 'Word: Engineer ; Definition: One who works on, or is responsible for the construction of, an electrical system.', 'Word: Engineer ; Definition: A person who does a variety of construction work.', 'Word: Engineer ; Definition: Someone who builds or manufactures something.']
+(Pdb)
+
+(Pdb) Nurse =  top_p_sample(text, top_p,temp=temp, minlen=minlen, maxlen=maxlen,num_samples=num_samples,)
+0: Word: Nurse ; Example: She was a nurse in the Navy.
+1: Word: Nurse ; Example: […]  she was too long in the habit of greeting her nurse as well as telling her the name of the doctor, and she gave her an opportunity to talk to him in a more friendly manner, as if she had learnt to nurse a horse of such an appearance.
+2: Word: Nurse ; Example: "We were talking about something a little too complicated for my nerves, Mrs. Sarge, because we had just come in for a walk at a hospital, and I was having a hard time keeping my eyes off it," said Mr. Lyle.
+3: Word: Nurse ; Example: "Don't have any more tea this morning. You're going to need a Nurse to carry you through the night."
+4: Word: Nurse ; Example: ‘Oh! Nurse!’ she said in a low voice. ‘I'm sorry,’ he said with some apprehension. ‘No, you are right; I think it is my fault. I was just too much of a nurse to admit it, and it is what it is.’
+5: Word: Nurse ; Example: The patient's Nurse was found dead in the stairwell behind the door.
+6: Word: Nurse ; Example: The physician’s nurse was so good and cheerful that it’d take her three hours a day to come home.
+7: Word: Nurse ; Example: If I go up in the yard, the nurse should be there.
+8: Word: Nurse ; Example: Nurse
+
+: Nurse: I will be your nurse.
+9: Word: Nurse ; Example: ‘This has got to be the nurse that I ever knew.’
+
