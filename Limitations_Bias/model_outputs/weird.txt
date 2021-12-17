@@ -1,0 +1,115 @@
+Script started on Wed Dec 15 12:19:44 2021
+
+(Pdb) lady = normalize_bec[K[K[Kvec('Lady')
+(Pdb) compare_gender(lady)
+Male comparision: 0.0001049041748046875
+Female comparision 0.00015807151794433594
+men is smaller
+--------------------------------------
+
+(Pdb) guy = normalize([K_bec([K[K[K[Kvec('Guy[K[K[Kguy')
+(Pdb) compare)[K_gender9[K(guy)
+Male comparision: 9.751319885253906e-05
+Female comparision 2.9921531677246094e-05
+women is smaller
+
+--------------------------------------
+(Pdb) get_next('Word: Woman', -100)
+"izedless wants\xa0 rather also se w takes holdinging dressed wearing might usually needs— knows lives the always? clothed! living not after �fullyfolk being holds [ are ought whom be givesism becomes makes oftene generally like had only under shalllike having that alone made will hath used whoseish born for cannot on byne does atizer must from can� should / liness was as ; without ( may to has:� and- or.ly with; in who of is,hood's"
+
+--------------------------------------
+
+(Pdb) get_next('Word: Woman', -100)
+' mother stomach Women bet I She W l chic Rose pussy ch o ha j � pretty ro � witch the pig idle gay bird bra ox Man vagina pen lou women do Lady one r plural an b le slut male apple whore n k s her wife goose black ad sheep wi f cow Jane t maid m gent The john lesbian d vul  w white bitch [ girl p y pant h wh ( er she bo fellow see fem feminine female am g ; Woman a\n lady man<|endoftext|> wom / […] woman\n\n'
+--------------------------------------
+
+(Pdb) get_next('Word: Woman ; Example: ', -100)
+' in aust wi pen good le He poor feminine ar flesh kn john cuc nature nood f machine wild to here ro human inclined canine hairy behold n  someone pork grand grain j masculine lou bow nig slippery noun stomach gentleman lo er curl apt sir w t apple cow ad the o lion r do bird black [ p bo g ox animal plural whiteich male gent one he goose thumb m idle y The gay sheep see wh an h ( person woman am wom\n fellow pant Man ; a /<|endoftext|> man\n\n […]'
+
+--------------------------------------
+(Pdb) get_next('Word: Man ; Example: ', -100)
+' ma pat sister Dad Patron Aunt white mo prince blessed � sigh t P Let di gra le pap w wom tru I mum u Papa o teacher Son poor whe sir the fathers brother his s male Fr br an apt wh gent r [ elder he wife daughter friend pant child lord The man He h fellow am ( f uncle th gay my\n aunt d good fore grandfather grandmother n y oneFather g mom Grand p Uncle nephew gr<|endoftext|> a ; m Mother son parent daddy dad grand\n\n / mother […] father Father'
+
+--------------------------------------
+(Pdb) get_next('Word: Father ; Example: ', -100)
+' Miss lo W mine sp � mothers husband hers female Jane see Her Ell P x pregnant She w the mil goose Uncle feminine t white maid one pap Mom breast Wife r Rose br bo b k I s cow � egg milk f The  am pant Lady gent son Grand parent Mary bitch mum wh lady woman apple [ she sweet Father baby ad my ( Aunt child Mama sister h n d wife her father daddy a y wom gr p g grand aunt\n grandmother m daughter ; mom<|endoftext|> Mother […]\n\n / mother'
+
+--------------------------------------
+(Pdb) get_next('Word: Mother ; Example: ', -100)
+' post partner suck pet barren mil c a witch dad rav womb vul self Mama squ  lesbian calf protector ad dependent pen girl good pre feminine nephew man w f companion ; y sweet gent feminist grandma lady milk husband bastard b am sick son virgin em / sol natural mat h\n\n maid careg breast mum d egg niece uter heroine prog female friend foster lover<|endoftext|> sp s fore baby pregnant woman wom stomach maternal n sister daddymother parent father […] wife bitch child g aunt Mother ( m mom p gr grand grandmother daughter mother'
+
+--------------------------------------
+(Pdb) get_next('Word: Mother ; Definition: ', -100)
+' biological h prop ph Uncle sick\n\n partner mum prec close su d pra kindred one donor sp kin natural pastor am god superior great sperm rich priest mat husband wife surname real fathers pre em pen br grandson f sexual mom benef divine apt foster hom aunt moral lovergrand<|endoftext|>father mortal protector teacher paternity sol brother source Mother male daughter heirert uncle lord Grand good s parental n maternal g man child m friend paternalFather […] prog bastard grandmother grandfather patriarch p gr elder fore son ( daddy nephew mother dad parent grand Father father'
+
+--------------------------------------
+(Pdb) father = normalize_e[Kvec('father')
+(Pdb) len(father)
+768
+(Pdb) compare_gender(father)
+Male comparision: 5.036592483520508e-05
+Female comparision 0.0001074075698852539
+men is smaller
+--------------------------------------
+
+(Pdb) mother = normalize_vec(mother)[K[K[K[K[K[K[K'mother')
+(Pdb) compare_gender(mother)
+Male comparision: 4.678964614868164e-05
+Female comparision 0.0001232624053955078
+men is smaller
+
+--------------------------------------
+(Pdb) dog = len[K[K[Knormalize_bec[K[K[Kvec('dog')
+(Pdb) len(go[K[Kdog)
+768
+(Pdb) compare_gender(dog)
+Male comparision: 7.671117782592773e-05
+Female comparision 0.00028461217880249023
+men is smaller
+
+--------------------------------------
+(Pdb) gat[K[K[Kcat = normalize_vec('cat')
+(Pdb) len(cat)
+768
+(Pdb) compare_gender(cat)
+Male comparision: 0.0005995035171508789
+Female comparision 0.0012488365173339844
+men is smaller
+--------------------------------------
+(Pdb) comp[K[K[K[Kking = m[Knom[Krmalize_vc[Kc[Kec('King')
+(Pdb) len(king)
+768
+(Pdb) compare_gender(king)
+Male comparision: 9.131431579589844e-05
+Female comparision 0.0003236532211303711
+men is smaller
+
+--------------------------------------
+(Pdb) prince = normalize_vec('Prince')
+(Pdb) len(prince)
+768
+(Pdb) compare_gender(Prince[K[K[K[K[K[Kprince)
+Male comparision: 7.021427154541016e-05
+Female comparision 0.00019240379333496094
+men is smaller
+--------------------------------------
+
+(Pdb) duke -[K[K =[K[K[K[K[K[Klord = normalize_vec('Lord')
+(Pdb) len(lord)
+768
+(Pdb) compare_gender(lord)
+Male comparision: 0.00011169910430908203
+Female comparision 0.0001512765884399414
+men is smaller
+
+--------------------------------------
+(Pdb) lady = normalize_vec [K('Lady"0[K[K')
+(Pdb) lenI[K9la[K[K[K(lady)
+768
+(Pdb) compare_gender(lady)
+Male comparision: 0.0001049041748046875
+Female comparision 0.00015807151794433594
+men is smaller
+
+
+Script done on Wed Dec 15 12:28:47 2021
