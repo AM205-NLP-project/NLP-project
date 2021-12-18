@@ -6,9 +6,6 @@
 
 `Bias_quantification_WEFAT1.ipynb`: This juptyer notebook is used for: 1. cosine difference analysis, 2. the PCA EDA plots to find clusters, 3. SVD exploration for covariance plots of the gender words and careers. Here you will find the code and the graphs for the section `3.3.2 Bias` exploring these topics in our Latex Writeup.
 
-`Get_vec_ATS.py`: This is a version of the get_vec.py that Adriana tailored to include a couple additional functions to create samples, compare gender cosine similarities, and get the list of tokens of the next predicted word by the model based off an inputted word.
-
-`get_vec_bias.py`: This is the version of the get_vec.py that Vitoria tailored to include a couple of additional functions to compare gender cosine similarities and run samples.
 
 `Model_outputs Folder`: This holds all the text files of the outputs from the model.
 
@@ -20,6 +17,3 @@
 	- weird.txt: some outputs that were used to understand the model that we found to be weird
 	- word_def.txt: holds the outputted definitions for the list of 5 words for phase 1 of word to definition back to word
 
-
-
-`benchmark.py`, `demoing.py`, `get_vec.py`, `main.py`, `preproccess.py`, `requirements.txt`, `sampler.py`: Are all the same files seen in the other main tune file.
