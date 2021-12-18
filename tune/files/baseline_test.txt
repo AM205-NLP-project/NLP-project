@@ -1,0 +1,159 @@
+Script started on Thu Dec 16 11:48:12 2021
+
+_______________________________ Baseline Testing ________________________________________
+
+(Pdb) return_sample('word[K[K[K[KWord: old ; Definition: ')
+0: Word: old ; Definition:  […]  of an age; an old age.
+1: Word: old ; Definition:  (of words, or expressions) Abbreviation of a noun or pronoun, used to distinguish one's identity.
+2: Word: old ; Definition:  of the past; in the past.
+3: Word: old ; Definition:  (informal) Having fallen out with someone, particularly someone older than you.
+4: Word: old ; Definition:  grown up;  old-fashioned
+5: Word: old ; Definition:  […]  old age or health.
+6: Word: old ; Definition:  (computing, programming) Having been deleted or replaced, the last such data stored.
+7: Word: old ; Definition:  having been lost or been forgotten, or to have fallen ill
+8: Word: old ; Definition:  (of a plant) Not mature, having been used.
+9: Word: old ; Definition:  having ceased or been replaced; older; old-fashioned; old-fashioned.
+['Word: old ; Definition:  […]  of an age; an old age.', "Word: old ; Definition:  (of words, or expressions) Abbreviation of a noun or pronoun, used to distinguish one's identity.", 'Word: old ; Definition:  of the past; in the past.', 'Word: old ; Definition:  (informal) Having fallen out with someone, particularly someone older than you.', 'Word: old ; Definition:  grown up;  old-fashioned', 'Word: old ; Definition:  […]  old age or health.', 'Word: old ; Definition:  (computing, programming) Having been deleted or replaced, the last such data stored.', 'Word: old ; Definition:  having been lost or been forgotten, or to have fallen ill', 'Word: old ; Definition:  (of a plant) Not mature, having been used.', 'Word: old ; Definition:  having ceased or been replaced; older; old-fashioned; old-fashioned.']
+
+
+
+(Pdb) return_sample('Word: old ; Definition: ')[C[1P[1P[1P[1@n[1@e[1@r[1@v[1@o[1@u[1@s
+0: Word: nervous ; Definition:  nervous (comparative more nervous, superlative most nervous)
+1: Word: nervous ; Definition:  Highly conscious of, or aware of, one's surroundings.
+2: Word: nervous ; Definition:  nervous (comparative more nervous, superlative most nervous)
+3: Word: nervous ; Definition:  (of an animal) Unwilling to move or come under attack.
+4: Word: nervous ; Definition:  Highly agitated.
+5: Word: nervous ; Definition:  sensitive to unpleasant thoughts, feelings, etc.
+6: Word: nervous ; Definition:  nervous (comparative more nervous, superlative most nervous)
+7: Word: nervous ; Definition:  (of a person's health) Very nervous.
+8: Word: nervous ; Definition:  (obsolete) Pervasive, having a tendency to talk about itself, or about other things.
+9: Word: nervous ; Definition:  (uncountable) Not being able to move the body freely.
+['Word: nervous ; Definition:  nervous (comparative more nervous, superlative most nervous)', "Word: nervous ; Definition:  Highly conscious of, or aware of, one's surroundings.", 'Word: nervous ; Definition:  nervous (comparative more nervous, superlative most nervous)', 'Word: nervous ; Definition:  (of an animal) Unwilling to move or come under attack.', 'Word: nervous ; Definition:  Highly agitated.', 'Word: nervous ; Definition:  sensitive to unpleasant thoughts, feelings, etc.', 'Word: nervous ; Definition:  nervous (comparative more nervous, superlative most nervous)', "Word: nervous ; Definition:  (of a person's health) Very nervous.", 'Word: nervous ; Definition:  (obsolete) Pervasive, having a tendency to talk about itself, or about other things.', 'Word: nervous ; Definition:  (uncountable) Not being able to move the body freely.']
+
+
+(Pdb) return_sample('Word: nervous ; Definition: ')[1P[1P[1P[1P[1P[1P[1P[1@p[1@e[1@r[1@f[1@o[1@r[1@m[1@e[1@r
+0: Word: performer ; Definition:  performer (plural performers)
+1: Word: performer ; Definition:  performer (plural performers)
+2: Word: performer ; Definition:  (informal) Someone who performs.
+3: Word: performer ; Definition:  performer (plural performers)
+4: Word: performer ; Definition:  performer (plural performers)
+5: Word: performer ; Definition:  (dated) A person performing arts; an artist or maker.
+6: Word: performer ; Definition:  performer (plural performers)
+7: Word: performer ; Definition:  A member of a profession, a group, or other community.
+8: Word: performer ; Definition:  performer (plural performers)
+9: Word: performer ; Definition:  (botany) The bud that plants a bud, usually a plant bud, and that reproduces itself, rather than the seed or plant.
+['Word: performer ; Definition:  performer (plural performers)', 'Word: performer ; Definition:  performer (plural performers)', 'Word: performer ; Definition:  (informal) Someone who performs.', 'Word: performer ; Definition:  performer (plural performers)', 'Word: performer ; Definition:  performer (plural performers)', 'Word: performer ; Definition:  (dated) A person performing arts; an artist or maker.', 'Word: performer ; Definition:  performer (plural performers)', 'Word: performer ; Definition:  A member of a profession, a group, or other community.', 'Word: performer ; Definition:  performer (plural performers)', 'Word: performer ; Definition:  (botany) The bud that plants a bud, usually a plant bud, and that reproduces itself, rather than the seed or plant.']
+
+
+
+
+(Pdb) return_sample('Word: performer ; Definition: ')[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@e[1@r[1@a[1@d[1@i[1@c[1@a[1@t[1@e
+0: Word: eradicate ; Definition:  (transitive) To remove the harmful effects of, especially of something that can affect the health of.
+1: Word: eradicate ; Definition:  to clear a path for eradication; eradicate
+2: Word: eradicate ; Definition:  To remove from existence.
+3: Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)
+4: Word: eradicate ; Definition:  (transitive) To make certain that all are eliminated; to prevent a disease from spreading.
+5: Word: eradicate ; Definition:  to make a specific, permanent change or change; to bring about a temporary end
+6: Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)
+7: Word: eradicate ; Definition:  (transitive) To bring back to a state of existence by means of something which has been removed or reduced.
+8: Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)
+9: Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)
+['Word: eradicate ; Definition:  (transitive) To remove the harmful effects of, especially of something that can affect the health of.', 'Word: eradicate ; Definition:  to clear a path for eradication; eradicate', 'Word: eradicate ; Definition:  To remove from existence.', 'Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)', 'Word: eradicate ; Definition:  (transitive) To make certain that all are eliminated; to prevent a disease from spreading.', 'Word: eradicate ; Definition:  to make a specific, permanent change or change; to bring about a temporary end', 'Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)', 'Word: eradicate ; Definition:  (transitive) To bring back to a state of existence by means of something which has been removed or reduced.', 'Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)', 'Word: eradicate ; Definition:  eradicate (third-person singular simple present eradicates, present participle eradicating, simple past and past participle eradicated)']
+
+
+
+(Pdb) return_sample('Word: eradicate ; Definition: ')[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@a[1@u[1@n[1@a
+0: Word: sauna ; Definition:  bath of the body.
+1: Word: sauna ; Definition:  an artificial water or indoor area containing artificial plants
+2: Word: sauna ; Definition:  A place of quiet solitude or relaxation.
+3: Word: sauna ; Definition:  A place where people can sleep or rest during the night, usually at night in some remote corner of the city.
+4: Word: sauna ; Definition:  (uncountable) The area or location in which the sauna is located.
+5: Word: sauna ; Definition:  massage (usually uncountable, plural saunas)
+6: Word: sauna ; Definition:  A hot bath; a hot-temperature room.
+7: Word: sauna ; Definition:  sauna (plural saunas)
+8: Word: sauna ; Definition:  the female reproductive system or organs
+9: Word: sauna ; Definition:  (informal) A room with a view to the outside world; an idealistic home or environment. [from 14th c.]
+['Word: sauna ; Definition:  bath of the body.', 'Word: sauna ; Definition:  an artificial water or indoor area containing artificial plants', 'Word: sauna ; Definition:  A place of quiet solitude or relaxation.', 'Word: sauna ; Definition:  A place where people can sleep or rest during the night, usually at night in some remote corner of the city.', 'Word: sauna ; Definition:  (uncountable) The area or location in which the sauna is located.', 'Word: sauna ; Definition:  massage (usually uncountable, plural saunas)', 'Word: sauna ; Definition:  A hot bath; a hot-temperature room.', 'Word: sauna ; Definition:  sauna (plural saunas)', 'Word: sauna ; Definition:  the female reproductive system or organs', 'Word: sauna ; Definition:  (informal) A room with a view to the outside world; an idealistic home or environment. [from 14th c.]']
+
+
+
+
+(Pdb) return_sample('Word: sauna ; Definition: ')[C[1P[1P[1P[1P[1P[1@r[1P[1@p[1@r[1@o[1@c[1@e[1@s[1@s[1@i[1@n[1@g
+0: Word: processing ; Definition:  The process of moving data, data objects, or elements around a container.
+1: Word: processing ; Definition:  processing (usually uncountable, plural processes)
+2: Word: processing ; Definition:  processing (countable and uncountable, plural processes)
+3: Word: processing ; Definition:  A process that is applied to a specific process or task.
+4: Word: processing ; Definition:  processing (usually uncountable, plural processes)
+5: Word: processing ; Definition:  processing (countable and uncountable, plural processes)
+6: Word: processing ; Definition:  processing (usually uncountable, plural processes)
+7: Word: processing ; Definition:  […]  the process of making or interpreting an electronic or mechanical record, often as part of the physical process of making or interpreting a document.
+8: Word: processing ; Definition:  processing (usually uncountable, plural processes)
+9: Word: processing ; Definition:  processing (countable and uncountable, plural processes)
+['Word: processing ; Definition:  The process of moving data, data objects, or elements around a container.', 'Word: processing ; Definition:  processing (usually uncountable, plural processes)', 'Word: processing ; Definition:  processing (countable and uncountable, plural processes)', 'Word: processing ; Definition:  A process that is applied to a specific process or task.', 'Word: processing ; Definition:  processing (usually uncountable, plural processes)', 'Word: processing ; Definition:  processing (countable and uncountable, plural processes)', 'Word: processing ; Definition:  processing (usually uncountable, plural processes)', 'Word: processing ; Definition:  […]  the process of making or interpreting an electronic or mechanical record, often as part of the physical process of making or interpreting a document.', 'Word: processing ; Definition:  processing (usually uncountable, plural processes)', 'Word: processing ; Definition:  processing (countable and uncountable, plural processes)']
+
+
+
+
+(Pdb) return_sample('Word: processing ; Definition: ')[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@t[1@e[1@a[1@d[1@y
+0: Word: steady ; Definition:  Firmly or faithfully maintained; well-pleased; well-mannered; obedient.
+1: Word: steady ; Definition:  stable (comparative more stable, superlative most stable)
+2: Word: steady ; Definition:  Steadfast.
+3: Word: steady ; Definition:  (of an object) Not moving in any steady way; immobile.
+4: Word: steady ; Definition:  Free of strife, strife, etc.
+5: Word: steady ; Definition:  Not affected by, or inclined to, change.
+6: Word: steady ; Definition:  stable (comparative more stable, superlative most stable)
+7: Word: steady ; Definition:  stable (comparative steadier, superlative steadiest)
+8: Word: steady ; Definition:  stable (comparative more steady, superlative most steady)
+9: Word: steady ; Definition:  stable (comparative steadier, superlative steadiest)
+['Word: steady ; Definition:  Firmly or faithfully maintained; well-pleased; well-mannered; obedient.', 'Word: steady ; Definition:  stable (comparative more stable, superlative most stable)', 'Word: steady ; Definition:  Steadfast.', 'Word: steady ; Definition:  (of an object) Not moving in any steady way; immobile.', 'Word: steady ; Definition:  Free of strife, strife, etc.', 'Word: steady ; Definition:  Not affected by, or inclined to, change.', 'Word: steady ; Definition:  stable (comparative more stable, superlative most stable)', 'Word: steady ; Definition:  stable (comparative steadier, superlative steadiest)', 'Word: steady ; Definition:  stable (comparative more steady, superlative most steady)', 'Word: steady ; Definition:  stable (comparative steadier, superlative steadiest)']
+
+
+
+
+(Pdb) return_sample('Word: steady ; Definition: ')[1P[C[1P[1P[1P[1P[1P[1@s[1@h[1@u[1@f[1@f[1@l[1@e
+0: Word: shuffle ; Definition:  A small, often empty, number.
+1: Word: shuffle ; Definition:  To proceed in a certain way; to proceed by oneself.
+2: Word: shuffle ; Definition:  (transitive) To cause to move slightly.
+3: Word: shuffle ; Definition:  shuffle (third-person singular simple present shuffles, present participle shuffling, simple past and past participle shuffled)
+4: Word: shuffle ; Definition:  A sudden change in direction; a change in the state of being; a change in a direction.
+5: Word: shuffle ; Definition:  To adjust the position of an object
+6: Word: shuffle ; Definition:  (transitive) To shuffle a collection of a collection or to make one in any order.
+7: Word: shuffle ; Definition:  (transitive) To take the place of; to make a change or an addition to; to eject or separate; to change the manner of.
+8: Word: shuffle ; Definition:  To bring about a sudden or sudden change in the behavior or state of; to change; to be changed.
+9: Word: shuffle ; Definition:  (transitive, intransitive) To put something hastily or unevenly on the floor or other surfaces.
+['Word: shuffle ; Definition:  A small, often empty, number.', 'Word: shuffle ; Definition:  To proceed in a certain way; to proceed by oneself.', 'Word: shuffle ; Definition:  (transitive) To cause to move slightly.', 'Word: shuffle ; Definition:  shuffle (third-person singular simple present shuffles, present participle shuffling, simple past and past participle shuffled)', 'Word: shuffle ; Definition:  A sudden change in direction; a change in the state of being; a change in a direction.', 'Word: shuffle ; Definition:  To adjust the position of an object', 'Word: shuffle ; Definition:  (transitive) To shuffle a collection of a collection or to make one in any order.', 'Word: shuffle ; Definition:  (transitive) To take the place of; to make a change or an addition to; to eject or separate; to change the manner of.', 'Word: shuffle ; Definition:  To bring about a sudden or sudden change in the behavior or state of; to change; to be changed.', 'Word: shuffle ; Definition:  (transitive, intransitive) To put something hastily or unevenly on the floor or other surfaces.']
+
+
+
+
+(Pdb) return_sample('Word: shuffle ; Definition: ')[C[1P[1P[1P[1P[1P[1P[1P[1@e[1@p[1@i[1@s[1@t[1@l[1@e[C[1@ 
+0: Word: epistle  ; Definition:  (transitive) To instruct or exhort, to counsel or encourage.
+1: Word: epistle  ; Definition:  (uncountable) The book of Matthew; the holy book; the book of Revelation.
+2: Word: epistle  ; Definition:  (philosophy) A letter, written in Greek.
+3: Word: epistle  ; Definition:  A written message, especially one in a particular language.
+4: Word: epistle  ; Definition:  (transitive, of an address or discourse) To express the thoughts or feelings of; to make the mind express itself.
+5: Word: epistle  ; Definition:  a written representation in writing in order to address one or more guests, especially a bishop, bishopric, or other representative of a religion; a letter or other writing containing such a message
+6: Word: epistle  ; Definition:  (countable) A written and/or oral history of someone or something. [from 16th c.]
+7: Word: epistle  ; Definition:  (Christianity) A letter sent to a patriarch in the place of a patriarch.
+8: Word: epistle  ; Definition:  (transitive) To exhort.
+9: Word: epistle  ; Definition:  An exclamation of praise or appreciation.
+['Word: epistle  ; Definition:  (transitive) To instruct or exhort, to counsel or encourage.', 'Word: epistle  ; Definition:  (uncountable) The book of Matthew; the holy book; the book of Revelation.', 'Word: epistle  ; Definition:  (philosophy) A letter, written in Greek.', 'Word: epistle  ; Definition:  A written message, especially one in a particular language.', 'Word: epistle  ; Definition:  (transitive, of an address or discourse) To express the thoughts or feelings of; to make the mind express itself.', 'Word: epistle  ; Definition:  a written representation in writing in order to address one or more guests, especially a bishop, bishopric, or other representative of a religion; a letter or other writing containing such a message', 'Word: epistle  ; Definition:  (countable) A written and/or oral history of someone or something. [from 16th c.]', 'Word: epistle  ; Definition:  (Christianity) A letter sent to a patriarch in the place of a patriarch.', 'Word: epistle  ; Definition:  (transitive) To exhort.', 'Word: epistle  ; Definition:  An exclamation of praise or appreciation.']
+
+
+
+
+(Pdb) return_sample('Word: epistle  ; Definition: ')[1P[1P[1P[1P[1P[1P[1P[1@c[1@u[1@t[1@e
+0: Word: cute  ; Definition:  (dated) Having the qualities of a cute girl.
+1: Word: cute  ; Definition:  very cute
+2: Word: cute  ; Definition:  (dated, uncountable) A little girl.
+3: Word: cute  ; Definition:  Very cute.
+4: Word: cute  ; Definition:  (of speech or language) Intimate, friendly.
+5: Word: cute  ; Definition:  (of a child or child's hair) Lively, innocent, and charming.
+6: Word: cute  ; Definition:  (of a person) Attractive; charming, charming.
+7: Word: cute  ; Definition:  soft; sweet.
+8: Word: cute  ; Definition:  (of a person) cute, witty.
+9: Word: cute  ; Definition:  (obsolete) Synonym of  cute person.
+['Word: cute  ; Definition:  (dated) Having the qualities of a cute girl.', 'Word: cute  ; Definition:  very cute', 'Word: cute  ; Definition:  (dated, uncountable) A little girl.', 'Word: cute  ; Definition:  Very cute.', 'Word: cute  ; Definition:  (of speech or language) Intimate, friendly.', "Word: cute  ; Definition:  (of a child or child's hair) Lively, innocent, and charming.", 'Word: cute  ; Definition:  (of a person) Attractive; charming, charming.', 'Word: cute  ; Definition:  soft; sweet.', 'Word: cute  ; Definition:  (of a person) cute, witty.', 'Word: cute  ; Definition:  (obsolete) Synonym of  cute person.']
+
+
+Script done on Thu Dec 16 12:54:46 2021

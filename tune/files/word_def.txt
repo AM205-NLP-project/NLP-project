@@ -1,0 +1,105 @@
+Script started on Wed Dec 15 15:55:26 2021
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ python[1Pclearpython get_vec.py 
+[C[C[C[C[C[C[C[C[C[Cscript gender_ex.txt
+[C[C[C[C[C[C[C[C[C[C[2Ppython get_vec.py 
+[C[C[C[C[C[C[C[C[C[Cclear[K[K[K[K[K[Kpyh[Kthon sampler.py 
+0: Word: chitchat ; Definition:  (colloquial, chiefly in the plural) A social chat.
+1: Word: chitchat ; Definition:  An extramarital affair, especially when involving a woman.
+2: Word: chitchat ; Definition:  (countable) A violent or obnoxious person or person.
+3: Word: chitchat ; Definition:  Chitchat (countable and uncountable, plural chitchats)
+4: Word: chitchat ; Definition:  (countable, archaic) A group of people sharing an interest in a particular thing or situation.
+5: Word: chitchat ; Definition:  (sometimes offensive) An insulting or insulting remark or comment; a defamatory or libelous remark.
+6: Word: chitchat ; Definition:  chitchat (plural chits or chits)
+7: Word: chitchat ; Definition:  chitchat (plural chit-chatting)
+8: Word: chitchat ; Definition:  (obsolete) A violent person; especially, one who causes quarrel or tumult, often on account of his dislike of others.
+9: Word: chitchat ; Definition:  (computing) A chat or conversation involving two or more people in different parties.
+--Return--
+> /Users/adrianatrejo-sheu/Harvard/AM205/NLP-project/tune/sampler.py(53)<module>()->None
+-> pdb.set_trace()
+(Pdb) pe[Krint("keep example 0 for chitchat")
+keep example 0 for chitchat
+
+
+
+(Pdb) return[K[K[K[K[K[Kprint("keep example 0 for chitchat")
+[C[C[C[C[C[C[Kreturn_same[Kple('Word: chitchat ; Definition: ')[1P[1P[1P[1P[1P[1P[1P[1P[1@w[1@a[1@v[1@e
+0: Word: wave ; Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves.
+1: Word: wave ; Definition:  (transitive) To pass, pass over.
+2: Word: wave ; Definition:  (transitive) To strike gently against (something).
+3: Word: wave ; Definition:  (slang) To ejaculate or ejaculate (in a certain manner).
+4: Word: wave ; Definition:  (colloquial, with "a") To jump high.
+5: Word: wave ; Definition:  (transitive) To move in a certain way; to move along (an axis).
+6: Word: wave ; Definition:  To take off the top of a hat or hatrack; to fall; to fall off; to go off in a hurry
+7: Word: wave ; Definition:  (transitive) To bring up the voice to a level with the air, especially by waving.
+8: Word: wave ; Definition:  (intransitive, of a waving child) To sway.
+9: Word: wave ; Definition:  (transitive) To utter in an almost undulating manner.
+['Word: wave ; Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves.', 'Word: wave ; Definition:  (transitive) To pass, pass over.', 'Word: wave ; Definition:  (transitive) To strike gently against (something).', 'Word: wave ; Definition:  (slang) To ejaculate or ejaculate (in a certain manner).', 'Word: wave ; Definition:  (colloquial, with "a") To jump high.', 'Word: wave ; Definition:  (transitive) To move in a certain way; to move along (an axis).', 'Word: wave ; Definition:  To take off the top of a hat or hatrack; to fall; to fall off; to go off in a hurry', 'Word: wave ; Definition:  (transitive) To bring up the voice to a level with the air, especially by waving.', 'Word: wave ; Definition:  (intransitive, of a waving child) To sway.', 'Word: wave ; Definition:  (transitive) To utter in an almost undulating manner.']
+(Pdb) print("wave keep example 0)
+*** SyntaxError: EOL while scanning string literal
+(Pdb) print("wave keep example 0)[K")
+wave keep example 0
+(Pdb) print("wave keep example 0")[1P)
+[C[C[C[C[C[Creturn_sample('Word: wave ; Definition: ')
+
+
+
+
+[1P[C[1P[1P[1P[1@g[1@a[1@l[1P[1P[1@l[1@a[1@s[1@s[1@e[1@s
+0: Word: glasses ; Definition:  glasses pl (plural only)
+1: Word: glasses ; Definition:  glasses (plural glasses)
+2: Word: glasses ; Definition:  lenses, glasses of various colours, such as silver
+3: Word: glasses ; Definition:  (dated, US) A small (approximately 5mm diameter) container with a lid.
+4: Word: glasses ; Definition:  (colloquial) The cover of an artist's work.
+5: Word: glasses ; Definition:  glasses (plural glasses)
+6: Word: glasses ; Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc.
+7: Word: glasses ; Definition:  glasses pl (plural only)
+8: Word: glasses ; Definition:  glasses pl (plural only)
+9: Word: glasses ; Definition:  glasses (plural glasses)
+['Word: glasses ; Definition:  glasses\xa0pl (plural only)', 'Word: glasses ; Definition:  glasses (plural glasses)', 'Word: glasses ; Definition:  lenses, glasses of various colours, such as silver', 'Word: glasses ; Definition:  (dated, US) A small (approximately 5mm diameter) container with a lid.', "Word: glasses ; Definition:  (colloquial) The cover of an artist's work.", 'Word: glasses ; Definition:  glasses (plural glasses)', 'Word: glasses ; Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc.', 'Word: glasses ; Definition:  glasses\xa0pl (plural only)', 'Word: glasses ; Definition:  glasses\xa0pl (plural only)', 'Word: glasses ; Definition:  glasses (plural glasses)']
+(Pdb) return_sample('Word: glasses ; Definition: ')
+[C[C[C[C[C[C[17Pprint("wave keep example 0")[1P")6")[1P[1P[1P[1P[1@g[1@l[1@a[1@s[1@s[1@e[1@s
+glasses keep example 6
+(Pdb) print("glasses keep example 6")
+
+
+
+[C[C[C[C[C[Creturn_sample('Word: glasses ; Definition: ')[1@\[1P[1P[1P[1P[1P[1P[1P[1P[1@s[1@p[1@o[1@r[1@k
+0: Word: spork ; Definition:  (transitive, intransitive) To shoot a burst of fluid from a gun, using the spork to shoot down an arrow or a cannon.
+1: Word: spork ; Definition:  spork (countable and uncountable, plural sporkings)
+2: Word: spork ; Definition:  A small vessel that is used for drinking beer, but is not meant for use for any purpose, such as a cold beverage, a cup of tea or a glass of beer.
+3: Word: spork ; Definition:  (transitive) To rub a joint using the spork or similar instrument (usually a vacuum cleaner).
+4: Word: spork ; Definition:  (Canada, US) A spoon.
+5: Word: spork ; Definition:  spork (countable and uncountable, plural sporkes)
+6: Word: spork ; Definition:  (obsolete) A small, unrefined, or insignificant substance; something that is drunk; a straw.
+7: Word: spork ; Definition:  (by extension, figuratively) A beverage consisting of a small amount of carbonated water, usually made from fermented grains, intended for consumption by the general public.
+8: Word: spork ; Definition:  (informal) A person who is sporked.
+9: Word: spork ; Definition:  The dried flesh of a lamb, a swan, or a pork.
+['Word: spork ; Definition:  (transitive, intransitive) To shoot a burst of fluid from a gun, using the spork to shoot down an arrow or a cannon.', 'Word: spork ; Definition:  spork (countable and uncountable, plural sporkings)', 'Word: spork ; Definition:  A small vessel that is used for drinking beer, but is not meant for use for any purpose, such as a cold beverage, a cup of tea or a glass of beer.', 'Word: spork ; Definition:  (transitive) To rub a joint using the spork or similar instrument (usually a vacuum cleaner).', 'Word: spork ; Definition:  (Canada, US) A spoon.', 'Word: spork ; Definition:  spork (countable and uncountable, plural sporkes)', 'Word: spork ; Definition:  (obsolete) A small, unrefined, or insignificant substance; something that is drunk; a straw.', 'Word: spork ; Definition:  (by extension, figuratively) A beverage consisting of a small amount of carbonated water, usually made from fermented grains, intended for consumption by the general public.', 'Word: spork ; Definition:  (informal) A person who is sporked.', 'Word: spork ; Definition:  The dried flesh of a lamb, a swan, or a pork.']
+(Pdb) return_sample('Word: spork ; Definition: ')
+[C[C[C[C[C[C[12Pprint("glasses keep example 6")[1P[1P[1P[1P[1P[1P[1P[1@s[1@p[1@o[1@r[1@k[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P")4")
+spork keep example 4
+(Pdb) print("spork keep example 4")
+[C[C[C[C[C[Creturn_sample('Word: spork ; Definition: ')[1P[1P[1P[1P[1P[1@s[1@u[1@n[1@s[1@t[1P[1@e[1@t
+0: Word: sunset ; Definition:  A period of time when the sun is most active.
+1: Word: sunset ; Definition:  a period when the sun is most active.
+2: Word: sunset ; Definition:  The time of day when nocturnal animals are sighted; daylight hours of the day.
+3: Word: sunset ; Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow.
+4: Word: sunset ; Definition:  (medicine) A bright spot of light on the horizon, usually as a reference point for the patient to see the sun.
+5: Word: sunset ; Definition:  sunset (plural sunsets)
+6: Word: sunset ; Definition:  twilight (plural shadows)
+7: Word: sunset ; Definition:  sunrise or sunset (third-person singular simple present shimmers, present participle shining, simple past and past participle shone)
+8: Word: sunset ; Definition:  sunset (countable and uncountable, plural stargazers)
+9: Word: sunset ; Definition:  twilight (countable and uncountable, plural twilight periods)
+['Word: sunset ; Definition:  A period of time when the sun is most active.', 'Word: sunset ; Definition:  a period when the sun is most active.', 'Word: sunset ; Definition:  The time of day when nocturnal animals are sighted; daylight hours of the day.', 'Word: sunset ; Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow.', 'Word: sunset ; Definition:  (medicine) A bright spot of light on the horizon, usually as a reference point for the patient to see the sun.', 'Word: sunset ; Definition:  sunset (plural sunsets)', 'Word: sunset ; Definition:  twilight (plural shadows)', 'Word: sunset ; Definition:  sunrise or sunset (third-person singular simple present shimmers, present participle shining, simple past and past participle shone)', 'Word: sunset ; Definition:  sunset (countable and uncountable, plural stargazers)', 'Word: sunset ; Definition:  twilight (countable and uncountable, plural twilight periods)']
+(Pdb) return_sample('Word: sunset ; Definition: ')
+[C[C[C[C[C[C[15Pprint("spork keep example 4")[1P")3")[1P[1P[1P[1P[1@u[1@n[1@s[1@e[1@t
+sunset keep example 3
+
+
+
+
+Script done on Wed Dec 15 16:04:14 2021

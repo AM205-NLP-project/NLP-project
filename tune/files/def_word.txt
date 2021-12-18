@@ -1,0 +1,109 @@
+Script started on Wed Dec 15 16:04:51 2021
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ python sampler.py 
+Traceback (most recent call last):
+  File "sampler.py", line 39, in <module>
+    tok = AutoTokenizer.from_pretrained('gpt2')
+  File "/Users/adrianatrejo-sheu/opt/anaconda3/lib/python3.8/site-packages/transformers/models/auto/tokenization_auto.py", line 464, in from_pretrained
+    tokenizer_config = get_tokenizer_config(pretrained_model_name_or_path, **kwargs)
+  File "/Users/adrianatrejo-sheu/opt/anaconda3/lib/python3.8/site-packages/transformers/models/auto/tokenization_auto.py", line 330, in get_tokenizer_config
+    resolved_config_file = cached_path(
+  File "/Users/adrianatrejo-sheu/opt/anaconda3/lib/python3.8/site-packages/transformers/file_utils.py", line 1491, in cached_path
+    output_path = get_from_cache(
+  File "/Users/adrianatrejo-sheu/opt/anaconda3/lib/python3.8/site-packages/transformers/file_utils.py", line 1715, in get_from_cache
+    raise ValueError(
+ValueError: Connection error, and we cannot find the requested files in the cached path. Please try again or make sure your Internet connection is on.
+bash-3.2$ q
+bash: q: command not found
+bash-3.2$ ex[K[Kpython sa[K[K[K[K[K[K[K[K[Kclear
+[H[2J[3Jbash-3.2$ ls
+benchmark.py		demoing.py		get_vec.py		model_unique_best	output.txt		requirements.txt	weird.txt
+def_word.txt		gender_ex.txt		main.py			model_unique_rev_best	preprocess.py		sampler.py		word_def.txt
+bash-3.2$ python sampler.py 
+0: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+1: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+2: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  gents
+3: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+4: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  roundabout
+5: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+6: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+7: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+8: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+9: Definition: (colloquial, chiefly in the plural) A social chat. ; Word:  chatty
+--Return--
+> /Users/adrianatrejo-sheu/Harvard/AM205/NLP-project/tune/sampler.py(53)<module>()->None
+-> pdb.set_trace()
+(Pdb) get[K[K[Ke[Kreturn_sample('Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word:')
+0: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform
+1: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide
+2: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform
+3: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform
+4: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide
+5: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide
+6: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform
+7: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: wavefront
+8: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide
+9: Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform
+['Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: wavefront', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveguide', 'Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word: waveform']
+(Pdb) return_sample('Definition:  (transitive) To bring gently or slowly up, usually in small movements, so as to form waves. ; Word:')[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K(chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. [K ; Word: ')
+0: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  glassbox
+1: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  buckethead
+2: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: icedove
+3: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  monitor
+
+:
+4: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  saucer
+5: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  balloon
+:
+6: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: vernal
+7: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: vernal
+8: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  balloonboy
+9: Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: 
+
+: pan
+['Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  glassbox', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  buckethead', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: icedove', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  monitor\n\n:', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  saucer', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  balloon\n:', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: vernal', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: vernal', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word:  balloonboy', 'Definition:  (chiefly US) A small decorative glass or glass pan, typically of glass and usually a glass pan with a window, used in theater, film, etc. ; Word: \n\n: pan']
+(Pdb) get[K[K[Kreturn_sample( '[K[K' Definition:  (Canada, US) A spoon. ; Word:' '[C)
+0:  Definition:  (Canada, US) A spoon. ; Word:  pipehead
+1:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+2:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+3:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+4:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+5:  Definition:  (Canada, US) A spoon. ; Word:  chopstick
+6:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+7:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+8:  Definition:  (Canada, US) A spoon. ; Word:  tumbler
+9:  Definition:  (Canada, US) A spoon. ; Word:  spooner
+[' Definition:  (Canada, US) A spoon. ; Word:  pipehead', ' Definition:  (Canada, US) A spoon. ; Word:  spooner', ' Definition:  (Canada, US) A spoon. ; Word:  spooner', ' Definition:  (Canada, US) A spoon. ; Word:  spooner', ' Definition:  (Canada, US) A spoon. ; Word:  spooner', ' Definition:  (Canada, US) A spoon. ; Word:  chopstick', ' Definition:  (Canada, US) A spoon. ; Word:  spooner', ' Definition:  (Canada, US) A spoon. ; Word:  spooner', ' Definition:  (Canada, US) A spoon. ; Word:  tumbler', ' Definition:  (Canada, US) A spoon. ; Word:  spooner']
+(Pdb) return_sample(' the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CDefinition:  (Canada, US) A spoon. ; Word: ')[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kthe time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word: ')
+0:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight zone
+1:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight
+
+
+2:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  the sky
+3:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight
+
+: twilight
+4:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilightzone
+5:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  the sun
+6:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight ; Word: twilight
+7:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight
+
+8:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight zone
+9:  Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  the evening
+[' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight zone', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight\n\n', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  the sky', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight\n\n: twilight', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilightzone', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  the sun', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight ; Word: twilight', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight\n', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  twilight zone', ' Definition:  the time of day when sunlight breaks through the clouds, the day when the sun is closest to the horizon, when the horizon has a clear blue glow. ; Word:  the evening']
+(Pdb) q
+Traceback (most recent call last):
+  File "sampler.py", line 53, in <module>
+    pdb.set_trace()
+  File "/Users/adrianatrejo-sheu/opt/anaconda3/lib/python3.8/bdb.py", line 92, in trace_dispatch
+    return self.dispatch_return(frame, arg)
+  File "/Users/adrianatrejo-sheu/opt/anaconda3/lib/python3.8/bdb.py", line 154, in dispatch_return
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+bash-3.2$ exit
+exit
+
+Script done on Wed Dec 15 16:09:43 2021
