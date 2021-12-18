@@ -33,3 +33,8 @@ In this project we have performed 3 subprojects. In the order from our Latex Wri
 * 3.2 Representation Geometry: the code for this can be found in the folder above `dimreduct/`
 * 3.3 Model Limitations & Gender Bias: the code for this can be found in the folder above `Limitations_Bias/`
 * 3.4 Feature Representation:  the code for this can be found in the folder above `Feature_Representations/`
+
+
+## Latex Writeup
+
+Lastly, you can find a PDF file of our report in the file `AM205_group_project_WRITEUP.pdf` where we describe in detail our project. 
